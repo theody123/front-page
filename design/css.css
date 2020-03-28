@@ -1,0 +1,77 @@
+body{
+	background-color: hsl(257, 40%, 49%);
+	position: fixed;
+}
+.bcpic{
+	position: fixed;
+}
+.logo{
+	position: absolute;
+	top: 25px;
+	left: 50px;
+}
+.logo1{
+	width: 60%;
+}
+.computer{
+	position: absolute;
+	top: 150px;
+	left: 50px;
+
+}
+.heading{
+	font-family: 'Poppins', sans-serif;
+	font-weight: 700;
+	text-align: left;
+	color: white;
+	margin-left: 30px;
+	line-height: 1.5;
+}
+.pics{
+	width: 50%;
+	float: left;
+	margin-right: 70px;
+
+}
+.letters{
+	font-family: 'Open Sans', sans-serif;
+	font-weight: 400;
+	color: white;
+	line-height: 1.5;
+	padding-right: 10px;
+
+}
+.social-media{
+	margin:auto;
+	position: fixed;
+	right: 40px;
+	bottom: 20px;
+}
+.facebook{
+	width: 20px;
+	height: 20px;
+}
+.google{
+	width: 20px;
+	height: 20px;
+}
+.instagram{
+	width: 20px;
+	height: 20px;
+}
+.twitter{
+	width: 20px;
+	height: 20px;
+}
+.button{
+	background-color: #faf4f4;
+	padding: 10px 50px 10px 50px;
+	color: hsl(257, 40%, 49%);
+	font-family: 'Open Sans', sans-serif;
+	border-radius: 15px;
+	box-shadow: rgb( 0 0 0 1) 3px 12px 3px 12px;
+	border: none;
+}
+.footer{
+	position: fixed;
+}
